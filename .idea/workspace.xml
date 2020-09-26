@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ba9ab0d-4623-4dfc-8f4b-722fd65807e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ProjectId" id="1i17fDPNmkbrei1tsNsMi8G2zve" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba9ab0d-4623-4dfc-8f4b-722fd65807e9" name="Default Changelist" comment="" />
+      <created>1601063344328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601063344328</updated>
+      <workItem from="1601063345372" duration="275000" />
+      <workItem from="1601126633673" duration="67000" />
+      <workItem from="1601126741002" duration="7000" />
+      <workItem from="1601126850393" duration="462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl" timestamp="1601063618432">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl/0.25.1600.875@0.25.1600.875" timestamp="1601063618432" />
+    <state x="304" y="100" width="992" height="731" key="SettingsEditor" timestamp="1601063542012">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="304" y="100" width="992" height="731" key="SettingsEditor/0.25.1600.875@0.25.1600.875" timestamp="1601063542012" />
+    <state x="702" y="189" width="196" height="553" key="ftp.server.browser" timestamp="1601063531761">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="702" y="189" width="196" height="553" key="ftp.server.browser/0.25.1600.875@0.25.1600.875" timestamp="1601063531761" />
+    <state x="463" y="214" key="search.everywhere.popup" timestamp="1601127100992">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="463" y="214" key="search.everywhere.popup/0.25.1600.875@0.25.1600.875" timestamp="1601127100992" />
+  </component>
+</project>
