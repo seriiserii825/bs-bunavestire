@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ba9ab0d-4623-4dfc-8f4b-722fd65807e9" name="Default Changelist" comment="" />
+    <list default="true" id="4ba9ab0d-4623-4dfc-8f4b-722fd65807e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bs-bunavestire.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/modules/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/modules/counter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/webpack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/bs-styles.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/bs-styles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-copy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prayers.html" beforeDir="false" afterPath="$PROJECT_DIR$/prayers.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +24,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1i17fDPNmkbrei1tsNsMi8G2zve" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -19,16 +35,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,7 +65,11 @@
       <workItem from="1601063345372" duration="275000" />
       <workItem from="1601126633673" duration="67000" />
       <workItem from="1601126741002" duration="7000" />
-      <workItem from="1601126850393" duration="462000" />
+      <workItem from="1601126850393" duration="704000" />
+      <workItem from="1601311844942" duration="226000" />
+      <workItem from="1601312072272" duration="766000" />
+      <workItem from="1601400535492" duration="858000" />
+      <workItem from="1601401408465" duration="326000" />
     </task>
     <servers />
   </component>
@@ -50,21 +77,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl" timestamp="1601063618432">
+    <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl" timestamp="1601312069061">
       <screen x="0" y="25" width="1600" height="875" />
     </state>
-    <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl/0.25.1600.875@0.25.1600.875" timestamp="1601063618432" />
-    <state x="304" y="100" width="992" height="731" key="SettingsEditor" timestamp="1601063542012">
+    <state x="583" y="223" width="426" height="485" key="FileChooserDialogImpl/0.25.1600.875@0.25.1600.875" timestamp="1601312069061" />
+    <state x="304" y="100" width="992" height="731" key="SettingsEditor" timestamp="1601401018231">
       <screen x="0" y="25" width="1600" height="875" />
     </state>
-    <state x="304" y="100" width="992" height="731" key="SettingsEditor/0.25.1600.875@0.25.1600.875" timestamp="1601063542012" />
-    <state x="702" y="189" width="196" height="553" key="ftp.server.browser" timestamp="1601063531761">
+    <state x="304" y="100" width="992" height="731" key="SettingsEditor/0.25.1600.875@0.25.1600.875" timestamp="1601401018231" />
+    <state x="702" y="189" width="329" height="553" key="ftp.server.browser" timestamp="1601400909614">
       <screen x="0" y="25" width="1600" height="875" />
     </state>
-    <state x="702" y="189" width="196" height="553" key="ftp.server.browser/0.25.1600.875@0.25.1600.875" timestamp="1601063531761" />
-    <state x="463" y="214" key="search.everywhere.popup" timestamp="1601127100992">
+    <state x="702" y="189" width="329" height="553" key="ftp.server.browser/0.25.1600.875@0.25.1600.875" timestamp="1601400909614" />
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1601401730213">
       <screen x="0" y="25" width="1600" height="875" />
     </state>
-    <state x="463" y="214" key="search.everywhere.popup/0.25.1600.875@0.25.1600.875" timestamp="1601127100992" />
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup/0.25.1600.875@0.25.1600.875" timestamp="1601401730213" />
   </component>
 </project>

@@ -1,5 +1,5 @@
-function counter(counter){
-	console.log(counter);
-}
+export default function counter(counter='new'){
 
-export default counter;
+	console.log(counter);
+	return counter;
+}
